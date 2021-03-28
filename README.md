@@ -1,6 +1,6 @@
 # Image Captionining
 
-The ML model gives caption to the image when the image is being uploaded on it.
+The ML model gives caption to the image :camera_flash: when the image is being uploaded on it.
 
 ## Concepts used
 - Recurrent Neural Network 
